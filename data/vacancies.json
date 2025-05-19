@@ -1,0 +1,2517 @@
+[
+    {
+        "name": "Ведущий аналитик",
+        "url": "https://hh.ru/vacancy/120633700",
+        "salary": {
+            "from": 180000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Продвинутые навыки работы с аналитическими инструментами и опыт работы с большими данными. Знание <highlighttext>Python</highlighttext>, SQL или R. Понимание методов анализа...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python Developer Middle / Middle+",
+        "url": "https://hh.ru/vacancy/120464105",
+        "salary": null,
+        "description": "Коммерческий опыт разработки от 2-ух лет. Уверенные знания и опыт работы с <highlighttext>Python</highlighttext>. Опыт работы с веб-фреймворками (Django...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/120587381",
+        "salary": null,
+        "description": "Знание одного из языков: Node.js, <highlighttext>Python</highlighttext>, Go или PHP. Понимание архитектуры клиент-серверных приложений. Умение работать с Git. ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Web-программист - стажер",
+        "url": "https://hh.ru/vacancy/118711736",
+        "salary": null,
+        "description": "Carfast- Первый онлайн авто аукцион в Казахстане. Доброжелательный и целеустремленный командный игрок. Принимаете верные решения в критических ситуациях. ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/120468412",
+        "salary": null,
+        "description": "Опыт нагрузочного тестирования. Опыт написания скриптов в Postman. Знание языка программирования - <highlighttext>Python</highlighttext> и фреймворка Pytest/Playwright. Высшее профессиональное техническое образование.",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "QA Engineer",
+        "url": "https://hh.ru/vacancy/120529655",
+        "salary": {
+            "from": 125000,
+            "to": 290000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Готовность к инновациям и постоянному профессиональному росту. Ответственность за итоговое качество продукта и готовность принимать решения. Желание развиваться до Fullstack...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Frontend разработчик (React)",
+        "url": "https://hh.ru/vacancy/120647277",
+        "salary": null,
+        "description": "Опыт разработки с React-admin. Опыт работы с RestConf, YANG моделями. Знание <highlighttext>Python</highlighttext> 3. Умение пользоваться Docker контейнерами (развёртывание). ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Тестировщик (QA Engineer)",
+        "url": "https://hh.ru/vacancy/120598092",
+        "salary": {
+            "from": 120000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт в тестировании от 3 лет (Middle — Middle+). - Знание <highlighttext>Python</highlighttext> для автотестов (pytest) (либо желание обучиться). - Умение пользоваться Postman, Insomnia. - ",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/120512718",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2-х лет. Знание и опыт работы с FastAPI, понимание принципов REST API. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120463752",
+        "salary": null,
+        "description": "Опыт работы с DAX (Data Analysis Expressions) или <highlighttext>Python</highlighttext> для анализа данных будет плюсом. Знание математического анализа, статистики и умение...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/120471614",
+        "salary": {
+            "from": 140000,
+            "to": 170000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенное знание Linux, опыт работы в командной строке. Опыт программирования и знание <highlighttext>Python</highlighttext>. Опыт работы с фреймворками для автоматизации тестирования...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120415611",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 1 года. Понимание принципов ООП и паттернов проектирования. Опыт работы с одним из современных...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Специалист по тестированию",
+        "url": "https://hh.ru/vacancy/120481632",
+        "salary": null,
+        "description": "Навыки написания скриптов на bash и <highlighttext>python</highlighttext>. Навыки работы с БД (Postgresql), создание простых запросов. Навыки работы с Docker, Ansible. ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA engineer (Middle/Middle+)",
+        "url": "https://hh.ru/vacancy/120619729",
+        "salary": null,
+        "description": "Высшее образование, желательно техническое. Опыт тестирования ПО от 3 лет. Опыт написания тестовой документации и анализа требований. Умение анализировать информацию...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA инженер",
+        "url": "https://hh.ru/vacancy/120590895",
+        "salary": null,
+        "description": "Опыт от 2-х лет в QA. Опыт разработки автоматизированных тестов с использованием <highlighttext>Python</highlighttext>. Владение SQL на продвинутом уровне. ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Manual QA Engineer (Middle)",
+        "url": "https://hh.ru/vacancy/120318650",
+        "salary": null,
+        "description": "...etc.) и способность их анализировать. Желание развиваться в автоматизированном тестировании (<highlighttext>Python</highlighttext>). Готовность работать в динамичной среде, где используются современные технологии.",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/120577573",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Typescript, React, Redux. Будет плюсом: Wagmi, Viem, Next, <highlighttext>Python</highlighttext>, FastAPI, PostgreSQL, SQLAlchemy. Опыт web3 разработки.",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "QA Engineer / WEB engineer",
+        "url": "https://hh.ru/vacancy/120602929",
+        "salary": {
+            "from": 100000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание основ автоматизированного тестирования (E2E, API), особенно с использованием <highlighttext>Python</highlighttext>, Playwright, Pytest. Навыки работы с Postman и тестирования...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Senior QA Engineer",
+        "url": "https://hh.ru/vacancy/120516983",
+        "salary": null,
+        "description": "Опыт автоматизации процесса тестирования (написание автоматических тестов). Умение читать и запускать код на <highlighttext>python</highlighttext> или java. Инженерный бэкграунд и опыт...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик ПО (QA Engineer)",
+        "url": "https://hh.ru/vacancy/120300880",
+        "salary": {
+            "from": 100000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт в ручном и автоматическом тестировании от 2 лет. Навыки автоматизации (<highlighttext>Python</highlighttext>/JavaScript + Selenium/Playwright/Cypress/Pytest). ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Специалист по тестированию",
+        "url": "https://hh.ru/vacancy/119935746",
+        "salary": null,
+        "description": "Компетентность в сфере информационных технологий, понимание этапов процесса разработки программного обеспечения. Навыки разработки автотестов на <highlighttext>Python</highlighttext> (Selenium, Pytest, Unittest). ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Инженер по тестированию / QA engineer (виртуализация)",
+        "url": "https://hh.ru/vacancy/120478924",
+        "salary": null,
+        "description": "Опыт работы с GitLab CI. Опыт автоматизированного тестирования (<highlighttext>Python</highlighttext>). Опыт работы с системами управления конфигурациями (IaC): Ansible, Terraform и др.. ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python developer (middle+)",
+        "url": "https://hh.ru/vacancy/120535428",
+        "salary": null,
+        "description": "Опыт коммерческой разработки бэкенда на <highlighttext>Python</highlighttext> от 3 лет. Опыт работы с SQL базами данных. Умение проектировать API сервисов. ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Аналитик данных (Python, SQL)",
+        "url": "https://hh.ru/vacancy/120464224",
+        "salary": null,
+        "description": "Высшее образование: техническое, математическое, экономическое. Необходимо знание <highlighttext>Python</highlighttext>, SQL, Excel, пакет офисных программ (Word, Excel, Powerpoint). Умение работать с большими...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "QA Engineer",
+        "url": "https://hh.ru/vacancy/120298413",
+        "salary": null,
+        "description": "Знание методологий тестирования и опыт составления тест-кейсов. Навыки автоматизации тестирования на <highlighttext>Python</highlighttext>, опыт работы с Git. Понимание процессов разработки...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python developer (Проект \"Платформа\")",
+        "url": "https://hh.ru/vacancy/120616324",
+        "salary": null,
+        "description": "Опыт работы <highlighttext>Python</highlighttext>. Опыт работы Django, Django Rest Framework, Сelery. Опыт с Postgresql. Опыт работы с REST API. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Senior Frontend Developer / Старший фронтэнд разработчик",
+        "url": "https://hh.ru/vacancy/120477161",
+        "salary": {
+            "from": 5000,
+            "to": 10000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Уверенное знание HTML5 и CSS3. Опыт с <highlighttext>Python</highlighttext>, Node, SQL — будет плюсом. Если тебе интересно решать нетривиальные задачи...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Инженер по тестированию",
+        "url": "https://hh.ru/vacancy/120494376",
+        "salary": null,
+        "description": "Технический уровень английского языка. Опыт работы с Jira\\Confluence. Опыт в написании скриптов (Shell, <highlighttext>Python</highlighttext>). Работа с системами контроля версий...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior Python Разработчик",
+        "url": "https://hh.ru/vacancy/120655087",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Базовые знания SQL и понимание работы с СУБД (например, PostgreSQL). Опыт написания API (FastAPI / Django REST Framework) или желание быстро...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "System Administrator",
+        "url": "https://hh.ru/vacancy/120651240",
+        "salary": {
+            "from": null,
+            "to": 5000,
+            "currency": "BYR",
+            "gross": false
+        },
+        "description": "Желание учиться и разбираться в новых информационных технологиях и продуктах. Опыт работы с корпоративными мессенджерами и ботами. Знание <highlighttext>Python</highlighttext>/Java...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "QA тестировщик",
+        "url": "https://hh.ru/vacancy/120650024",
+        "salary": {
+            "from": 90000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт тестирования REST/GraphQL API, уверенное владение DevTools. Навыки написания автотестов (<highlighttext>Python</highlighttext> или JavaScript/TypeScript) и SQL-запросов для валидации...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Инженер по тестированию (ручное тестирование)",
+        "url": "https://hh.ru/vacancy/120379473",
+        "salary": {
+            "from": 80000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание жизненного цикла программного обеспечения и теории тестирования. Знания <highlighttext>Python</highlighttext>, Pytest, Requests, Selenium, Postman, Swagger. Понимание основ тестирования и владение...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Backend-Developer Python (junior)",
+        "url": "https://hh.ru/vacancy/120575970",
+        "salary": null,
+        "description": "<highlighttext>Python</highlighttext> 3.12. Asyncpg, aiohttp/fastapi/flask. PostgreSQL, Redis; Docker, Git/gitlab. Хорошее знание <highlighttext>Python</highlighttext> 3. Опыт работы с любыми...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120332496",
+        "salary": {
+            "from": 400000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт коммерческой разработки от 3 лет на <highlighttext>Python</highlighttext>. Глубокие знания FastAPI и работы с асинхронностью (asyncio, multiprocessing, AioRedis). ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных (Python)",
+        "url": "https://hh.ru/vacancy/120586339",
+        "salary": null,
+        "description": "Понимание основ работы с реляционными базами данных (таблицы, ключи, индексы). <highlighttext>Python</highlighttext>: Базовые навыки программирования на <highlighttext>Python</highlighttext> (работа с переменными, списками...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Инженер по тестированию / QA Engineer",
+        "url": "https://hh.ru/vacancy/120534011",
+        "salary": null,
+        "description": "Опыт работы с Docker\\Postgresql\\Etcd\\Nginx\\ProxmoxVE\\Zabbix\\AWX будет преимуществом. Базовые знания <highlighttext>Python</highlighttext> будет преимуществом. Хороший командный игрок.",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Data Analyst",
+        "url": "https://hh.ru/vacancy/120585777",
+        "salary": null,
+        "description": "Знание <highlighttext>Python</highlighttext> будет большим плюсом. Хорошо умеешь работать с BI-инструментами (мы используем Tableau). Знаешь и умеешь работать с продуктовыми...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120382800",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": null,
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Backend-разработчик / Backend Developer",
+        "url": "https://hh.ru/vacancy/120609206",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание одного из фреймворков - fastapi/flask. Знание <highlighttext>python</highlighttext> начиная с версии 3.9. Умение читать/понимать чужой код. ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Scrapy Developer / Парсинг",
+        "url": "https://hh.ru/vacancy/119170531",
+        "salary": null,
+        "description": "Базовые знания <highlighttext>Python</highlighttext> и опыт написания кода (учебные проекты или pet-проекты — подойдут). Понимание основ работы с библиотекой Scrapy (опыт...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Пилот техник БПЛА FPV",
+        "url": "https://hh.ru/vacancy/120650572",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Дополнительные требования (опционально). - Базовое знание <highlighttext>Python</highlighttext> или других языков для настройки кастомных решений. - Навыки ремонта и сборки беспилотных аппаратов. - ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python разработчик (Project-based)",
+        "url": "https://hh.ru/vacancy/120616162",
+        "salary": {
+            "from": 10000000,
+            "to": 25000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "description": "Ответственный, коммуникабельный, стрессоустойчивый. Коммерческий опыт разработки на <highlighttext>Python</highlighttext> Django/FastAPI. Опыт работы с реляционными (PostgreSQL, MySQL) и NoSQL (MongoDB, Redis...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python developer (junior)",
+        "url": "https://hh.ru/vacancy/120482955",
+        "salary": null,
+        "description": "1. Уверенное владение <highlighttext>Python</highlighttext> 3.x и Django( в том числе Django REST Framework). 2. Опыт работы с Celery и...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python Разработчик",
+        "url": "https://hh.ru/vacancy/120617429",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Python</highlighttext> от 2–3 лет. Уверенные знания <highlighttext>Python</highlighttext> и современных подходов к разработке ПО. Интерес к развитию...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "QA Engineer / Специалист по тестированию",
+        "url": "https://hh.ru/vacancy/120495577",
+        "salary": null,
+        "description": "Практический опыт работы с технологиями виртуализации (VMware, VirtualBox). - Владение языками, такими как Bash/<highlighttext>Python</highlighttext>/JavaScript. - Базовые навыки системного администрирования в...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior Python Backend Developer",
+        "url": "https://hh.ru/vacancy/119780954",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенное знание <highlighttext>python</highlighttext>. Уверенное знание django и DRF. Опыт работы с git. Опыт работы с PostgreSQL и умение писать SQL...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Full-stack аналитик (платежные системы)",
+        "url": "https://hh.ru/vacancy/120345804",
+        "salary": {
+            "from": 5000,
+            "to": null,
+            "currency": "EUR",
+            "gross": false
+        },
+        "description": "знание Confluence, BPMN, UML, Miro, YouTrack. - будет плюсом знание <highlighttext>Python</highlighttext>, SQL, BI-инструментов. - высокий уровень ответственности, аналитический склад ума. - ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Тестировщик (QA engineer)",
+        "url": "https://hh.ru/vacancy/120461919",
+        "salary": null,
+        "description": "...техник тест-дизайна и видов тестирования. Понимание процессов тестирования и разработки. Базовые навыки автоматизации (<highlighttext>Python</highlighttext>/Java/JS или другой язык).",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/120488625",
+        "salary": null,
+        "description": "Навык работы с Linux (Опыть работы с Astra Linux будет преимуществом).",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA-инженер",
+        "url": "https://hh.ru/vacancy/120643219",
+        "salary": {
+            "from": 160000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с высоконагруженными системами. Опыт проведения нагрузочного тестирования. Опыт написания автотестов <highlighttext>Python</highlighttext>\\C#\\Java web-интерфейса (selenium + selenide).",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA-инженер (middle)",
+        "url": "https://hh.ru/vacancy/120651266",
+        "salary": {
+            "from": 100000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт с Selenium WebDriver, Playwright, Cypress (или аналогами). Базовые навыки программирования (<highlighttext>Python</highlighttext>/Java/JavaScript). Работа с CI/CD (Jenkins, GitLab...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior Python-developer (Python разработчик)",
+        "url": "https://hh.ru/vacancy/120318103",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. - Знание REST API и одного из популярных веб-фреймворков (Django, FastAPI). - Навыки работы с...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Специалист по тестированию / QA Engineer",
+        "url": "https://hh.ru/vacancy/120456848",
+        "salary": {
+            "from": null,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Понимание одностраничных приложений (SPA). Знание <highlighttext>Python</highlighttext>. Знание Java на базовом уровне. Знание JavaScript на базовом уровне. Опыт работы с Cypress. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Middle Python developer",
+        "url": "https://hh.ru/vacancy/120537225",
+        "salary": null,
+        "description": "возможны митинги с клиентом на английском языке, поэтому разговорный английский обязателен. Требования: Знание и опыт работы с: - MVC/ООП. - ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "IT-специалист",
+        "url": "https://hh.ru/vacancy/120449984",
+        "salary": {
+            "from": 300000,
+            "to": 350000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "понимание принципов ведения регламентированного и управленческого учета. Преимущество для вас, если имеется опыт работы в Power BI и <highlighttext>Python</highlighttext>.",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Тестировщик ПО (QA)",
+        "url": "https://hh.ru/vacancy/120664476",
+        "salary": null,
+        "description": "Базовое понимание работы Linux. Желание развиваться. Опыт работы с облачными технологиями.",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик Данных",
+        "url": "https://hh.ru/vacancy/120610404",
+        "salary": null,
+        "description": "Продвинутые навыки работы в <highlighttext>Python</highlighttext>, включая опыт разработки аналитических скриптов, применения библиотек для анализа данных (pandas, NumPy) и визуализации (Matplotlib...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Стажёр-аналитик данных",
+        "url": "https://hh.ru/vacancy/120533314",
+        "salary": null,
+        "description": "Высшее техническое, математическое или экономическое образование. Желателен опыт работы в области аналитики. Опытный пользователь ПК. Опыт проведения сверки данных и...",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Тестировщик junior+ / middle (Москва)",
+        "url": "https://hh.ru/vacancy/120385704",
+        "salary": null,
+        "description": "Преимуществом будут: Опыт автоматизации с использованием <highlighttext>Python</highlighttext>, git. Опыт работы с Mongo, Clickhouse. Опыт работы с Allure TestOps/ТестОпс. - ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Frontend-разработчик (Middle)",
+        "url": "https://hh.ru/vacancy/120223072",
+        "salary": null,
+        "description": "Плюсами будут: Опыт работы с Typescript. Владение техниками тестирования кода (в том числе BDD, TDD). Владение <highlighttext>python</highlighttext>, docker, nginx.",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Middle Python разработчик",
+        "url": "https://hh.ru/vacancy/120496198",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Проектировать и выстраивать архитектуру сервиса и микросервисов. Flask / FastAPI. MySQL. Aiogram (Telegram-боты). Опыт написания парсеров. Front-end (HTML, CSS...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных в продукт",
+        "url": "https://hh.ru/vacancy/120083318",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Работал в продуктовых командах, понимает agile и продуктовый подход. Отлично знает SQL (предпочтительно ClickHouse), <highlighttext>Python</highlighttext>, Jupyter Notebook. Имеет опыт анализа...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA Инженер",
+        "url": "https://hh.ru/vacancy/120493733",
+        "salary": {
+            "from": null,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Внимательность, ответственность, системное мышление. Опыт автоматизации тестирования (например, на <highlighttext>Python</highlighttext>, с использованием Pytest или Playwright). Знакомство с CI/CD, Git...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/120646591",
+        "salary": null,
+        "description": "Опыт работы с системами сборки и автоматизации (Webpack, Vite). Будет плюсом: Знание основ серверных технологий (<highlighttext>Python</highlighttext>, Go, Java) для лучшего...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120288351",
+        "salary": null,
+        "description": "Знание Excel/Google Sheets (сводные таблицы, формулы, макросы). Базовые знания <highlighttext>Python</highlighttext>/R для анализа данных (Pandas, NumPy, matplotlib — будет плюсом). ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Начинающий QA инженер (ручное тестирование мобильных приложений)",
+        "url": "https://hh.ru/vacancy/120520600",
+        "salary": null,
+        "description": "Умение работать с DevTools. Навыки работы с Postman. Базовые знания <highlighttext>Python</highlighttext> и фреймворков для UI-тестирования (Playwright, Selenium и др.). ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Начинающий Python разработчик (работа с биологическими данными)",
+        "url": "https://hh.ru/vacancy/120553515",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенное владение <highlighttext>Python</highlighttext>, особенно библиотеками для работы с данными (Pandas, Numpy) и для визуализации данных (Matplotlib, Seaborn и др.). ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior разработчик Python (Django)",
+        "url": "https://hh.ru/vacancy/120547195",
+        "salary": {
+            "from": 70000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание <highlighttext>Python</highlighttext> (типы данных, коллекции, функции, ООП). Знание Django (принципы, функции, возможности, управление). SQL (базовые знания PostgreSQL). REST API. ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Java-разработчик",
+        "url": "https://hh.ru/vacancy/120604906",
+        "salary": null,
+        "description": "...Git и технический английский (чтение документации, код-ревью). Опыт в simulation modeling, numerical simulation. Работа с Matlab, Octave, AnyLogic, <highlighttext>Python</highlighttext>.",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Backend-разработчик Python",
+        "url": "https://hh.ru/vacancy/120537070",
+        "salary": null,
+        "description": "Окно необходимых навыков: Опыт комерческой разработки от 2х лет. Уверенные знания <highlighttext>python</highlighttext>; Понимание асинхронности. Опыт работы с FastAPI, SQLAclhemy...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python разработчик/Python developer",
+        "url": "https://hh.ru/vacancy/120541849",
+        "salary": null,
+        "description": "Знание и опыт работы с WEB3. Опыт разработки ботов для Telegram. <highlighttext>Python</highlighttext>, Django + DRF, FastAPI, Flask, PostgreSQL, Docker...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120331701",
+        "salary": null,
+        "description": "Опыт работы с <highlighttext>Python</highlighttext> от 1-го года . Опыт работы с одним или несколькими фреймворками: FastApi, Flask, Django, Django REST. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/120577562",
+        "salary": null,
+        "description": "Официальный опыт работы от 2 лет по профилю. Опыт работы с MySQL и/или PostgreSQL. Опыт работы с multiprocessing, очередями...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "QA-инженер (ручное тестирование)",
+        "url": "https://hh.ru/vacancy/120507868",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт тестирования ПО от 3 лет. Опыт создания, поддержания тестовой документации (тест-планы, тест-кейсы). Опыт регистрации ошибок в баг...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Backend Разработчик (Python)",
+        "url": "https://hh.ru/vacancy/120599018",
+        "salary": null,
+        "description": "Язык программирования <highlighttext>Python</highlighttext>: уверенное владение <highlighttext>Python</highlighttext> с v.3.10, знание особенностей, синтаксиса и возможностей. Понимание async/await. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Специалист по интеграции и автоматизации платформ",
+        "url": "https://hh.ru/vacancy/120048268",
+        "salary": {
+            "from": 1000,
+            "to": null,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Навыки анализа данных и внимания к деталям. Опыт написания скриптов (<highlighttext>Python</highlighttext>, JavaScript или SQL) — плюс. Хорошие коммуникативные навыки и желательно...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/120583104",
+        "salary": {
+            "from": 180000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт с системами мониторинга (Prometheus). Опыт работы с логированием (библиотека logging). Понимание CI/CD и процессов разработки. Умение писать юнит...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Software Engineer",
+        "url": "https://hh.ru/vacancy/120477024",
+        "salary": {
+            "from": 2500,
+            "to": 4000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Предпочтительно: Выпускник топовых казахстанских и зарубежных вузов - Nazarbayev University, KIMEP, etc. Опыт разработки с <highlighttext>Python</highlighttext>/Django/DRF. Опыт работы с...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior ML Разработчик / Аналитик Данных",
+        "url": "https://hh.ru/vacancy/120494149",
+        "salary": {
+            "from": 140000,
+            "to": 190000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Знакомы с <highlighttext>Python</highlighttext> и участвовали в ML-проектах (личных, учебных, любых) — мы открыты к кандидатам без коммерческого опыта, если есть...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "QA Engineer",
+        "url": "https://hh.ru/vacancy/120493174",
+        "salary": null,
+        "description": "Знание теории тестирования. Опыт ручного тестирования десктоп-приложений. Понимание работы систем контроля версий SVN, GIT. Уверенные навыки работы с JIRA. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Администратор информационных систем",
+        "url": "https://hh.ru/vacancy/120511577",
+        "salary": {
+            "from": 700000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Скриптинг и автоматизация: написание скриптов на Bash, <highlighttext>Python</highlighttext>, PowerShell (как преимущество) для автоматизации рутинных операций. Сетевые навыки: уверенное понимание TCP...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120486356",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Python</highlighttext> от года. Опыт реализации REST-сервисов. Желание развиваться и изучать новейшие технологии. Навыки работы с чат...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python Разработчик",
+        "url": "https://hh.ru/vacancy/120494296",
+        "salary": {
+            "from": 190000,
+            "to": 260000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Базовые знания SQL и понимание работы с СУБД (например, PostgreSQL). Опыт написания API (FastAPI / Django REST Framework) или желание быстро...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Python разработчик / Python Developer",
+        "url": "https://hh.ru/vacancy/120662240",
+        "salary": null,
+        "description": "Современный стек технологий. Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 2-х лет. Опыт работы с Django/Wagtail, FastAPI. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/120599622",
+        "salary": null,
+        "description": "Опыт коммерческой разработки веб-приложений от 2 лет на <highlighttext>Python</highlighttext>, из которых не менее 1 года на Django. — ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных / Дата-аналитик",
+        "url": "https://hh.ru/vacancy/120639074",
+        "salary": {
+            "from": null,
+            "to": 340000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Отличное знание SQL (сложные запросы, оконные функции, CTE). Продвинутое знание Excel. Знания <highlighttext>Python</highlighttext>. Навык и желание визуализировать данные, чтобы объяснять...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/120021982",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы с Selenium, Playwright, Cypress или Appium. Знание <highlighttext>Python</highlighttext>, Java, JavaScript или C# (на базовом уровне). Умение писать автотесты...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Backend-разработчик (junior)",
+        "url": "https://hh.ru/vacancy/120171387",
+        "salary": null,
+        "description": "Имеете опыт работы в системном администрировании (настройка сетей). Знаете языки программирования <highlighttext>Python</highlighttext>, C++, язык запросов SQL. Знаете протоколы HTTP, WS...",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120572087",
+        "salary": null,
+        "description": "Высокий уровень владения <highlighttext>Python</highlighttext> (опыт от 3-х лет коммерческой разработки) Django + DRF. Знание и опыт работы с другими...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик (Web и Mobile)",
+        "url": "https://hh.ru/vacancy/120457686",
+        "salary": null,
+        "description": "Знание SQL на уровне join-запросов. Знание <highlighttext>Python</highlighttext>. Опыт работы с Android Studio (логи, эмуляторы). Наличие опыта нагрузочного тестирования и...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Junior Data Scientist",
+        "url": "https://hh.ru/vacancy/120576000",
+        "salary": null,
+        "description": "Понимание процессов EDA и обучения моделей. Уверенное владение <highlighttext>Python</highlighttext> и основными библиотеками для анализа данных (Pandas, NumPy, SciPy, Scikit-learn...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120599644",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 5 лет. Опыт работы с другими библиотека: с pandas обязателен, Atropy, beautifulsoup4, ambalanced...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Фулстак Аналитик/Релокация на Кипр",
+        "url": "https://hh.ru/vacancy/120661705",
+        "salary": {
+            "from": 5000,
+            "to": 6500,
+            "currency": "EUR",
+            "gross": false
+        },
+        "description": "Имеете практический опыт программирования хотя бы на одном языке — например, <highlighttext>Python</highlighttext>, Java, JavaScript, C# или C++. Отлично общаетесь и умеете...",
+        "schedule": "Полный день",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120631334",
+        "salary": {
+            "from": 100000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Что мы от тебя хотим: Опыт коммерческой разработки от 3х лет. Уверенные знания <highlighttext>python</highlighttext>; Понимание асинхронности. Опыт работы с...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/120642310",
+        "salary": {
+            "from": 150000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> не менее 3 лет. Глубокие знания FastAPI и асинхронного программирования (asyncio, multiprocessing и/или Celery). ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python-разработчик (Начинающий)",
+        "url": "https://hh.ru/vacancy/120464435",
+        "salary": null,
+        "description": "...можешь привести примеры, описать что оно делает и для чего оно нужно. Есть желание развиваться в асинхронном программировании на <highlighttext>Python</highlighttext>.",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "QA Engineer (middle)",
+        "url": "https://hh.ru/vacancy/120207758",
+        "salary": {
+            "from": 130000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Готовность к инновациям и постоянному профессиональному росту. Ответственность за итоговое качество продукта и готовность принимать решения. Желание развиваться до Fullstack...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик / QA + 2nd line support",
+        "url": "https://hh.ru/vacancy/120473644",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с Postman/Insomnia, Swagger. Опыт работы с Git. Понимание основ Javascript. Опыт автоматизации на <highlighttext>Python</highlighttext>. Наличие профильных сертификатов.",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/120631830",
+        "salary": null,
+        "description": "Знание SQL в части написания запросов к базам данных, практика использования <highlighttext>Python</highlighttext>. Опыт работы в актуарном подразделении приветствуется. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Главный эксперт по электротехническому оборудованию",
+        "url": "https://hh.ru/vacancy/120631789",
+        "salary": {
+            "from": 205495,
+            "to": 231182,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание языка программирования <highlighttext>Python</highlighttext> будет преимуществом. Знание устройства, конструктивных особенностей и эксплуатационных характеристик турбогенераторов, трансформаторов и прочего электротехнического оборудования электростанции. ",
+        "schedule": "Полный день",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "QA Engineer / Инженер по тестированию",
+        "url": "https://hh.ru/vacancy/120088115",
+        "salary": {
+            "from": 2000,
+            "to": 4000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Basic understanding of JavaScript/TypeScript and/or <highlighttext>Python</highlighttext>. - (Bonus) Experience with CI/CD systems and performance testing tools. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python Backend Developer (Django)",
+        "url": "https://hh.ru/vacancy/120582386",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Технологический стек: <highlighttext>Python</highlighttext>, Django, PostgreSQL, REST API, Docker, Git, k8s, итд. Ответственный подход к решению задач. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior Python developer",
+        "url": "https://hh.ru/vacancy/119870879",
+        "salary": {
+            "from": 400,
+            "to": 800,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Желательно высшее техническое образование (минимум 2 курса ) (чтобы уметь общаться и решать возникающие вопросы). Немного знать HTML/Bootstrap и немного...",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120171371",
+        "salary": null,
+        "description": "Высшее образование (техническое). Опыт разработки на <highlighttext>Python</highlighttext> 3.6++. Опыт работы с Django, DRF, Celery, Redis. Опыт разработки под...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Программист",
+        "url": "https://hh.ru/vacancy/119878802",
+        "salary": {
+            "from": 1000000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": null,
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Специалист технической поддержки в AI-стартап on.ai/Стажер",
+        "url": "https://hh.ru/vacancy/120478965",
+        "salary": null,
+        "description": "Общаются, как живые люди (в 98,5% диалогов). Понимают несколько языков и переключаются на ходу. Обрабатывают до 2000 чатов и...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Junior Python-разработчик",
+        "url": "https://hh.ru/vacancy/120185225",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в системном администрировании (настройка сетей). Знаете языки программирования <highlighttext>Python</highlighttext>, и язык запросов SQL. Знаете протоколы HTTP, WS, MAVLink. ",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Дата-аналитик",
+        "url": "https://hh.ru/vacancy/120574376",
+        "salary": null,
+        "description": "Хорошие знания SQL и Excel. Опыт работы с данными по построению выборок в распространённых СУБД (Oracle, PostgreSQL, MySQL, MSSQL, Clickhouse...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Инженер-тестировщик (ручное тестирование)",
+        "url": "https://hh.ru/vacancy/120105906",
+        "salary": null,
+        "description": "Опыт тестирования от 2-х лет. Понимание процесса разработки ПО. Знание системы контроля версий: SVN и GIT. Опыт работы с...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Сетевой администратор",
+        "url": "https://hh.ru/vacancy/120523101",
+        "salary": {
+            "from": 70000,
+            "to": 150000,
+            "currency": "KGS",
+            "gross": false
+        },
+        "description": "Навыки написания скриптов для автоматизации сетевых задач (<highlighttext>Python</highlighttext>, Bash, Perl) и использование инструментов для оркестрации и управления конфигурацией (например, Ansible...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Технический директор (CTO)",
+        "url": "https://hh.ru/vacancy/120419123",
+        "salary": null,
+        "description": "Уверенное понимание всего стека разработки (<highlighttext>Python</highlighttext>, Node.js, Go — не обязательно кодить каждый день, но нужно понимать архитектурные особенности и выбирать...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Backend Python Developer (Dubai onsite)",
+        "url": "https://hh.ru/vacancy/120359283",
+        "salary": null,
+        "description": "Английский язык B2 и выше. Необходимые знания и навыки: - подтвержденный коммерческий опыт работы на pyhton от четырех лет. - ",
+        "schedule": "Полный день",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120458509",
+        "salary": null,
+        "description": "Опыт backend-разработки от 2 лет. Уверенное знание <highlighttext>Python</highlighttext> и современного стека веб-разработки. Опыт проектирования REST API и работы...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/80675242",
+        "salary": null,
+        "description": "Имеете опыт промышленного тестирования от 1 года. Опыт написания скриптов на Bash и <highlighttext>Python</highlighttext>. Опыт написания тестовой документации (тест-стратегий...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/120618381",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Python</highlighttext> от 2–3 лет. Уверенные знания <highlighttext>Python</highlighttext> и современных подходов к разработке ПО. Интерес к развитию...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Golang Developer",
+        "url": "https://hh.ru/vacancy/120591930",
+        "salary": null,
+        "description": "2+ года коммерческого опыта с Golang. Английский В1. ​​​​​​​Хорошее понимание микросервисной архитектуры. Владение стеком: Go, gRPC, GraphQL, HTTP...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120603792",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Основные инструменты: SQL, MS Excel (продвинутый уровень).",
+        "schedule": "Полный день",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/119827956",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенное знание <highlighttext>Python</highlighttext> и его экосистемы. -Опыт работы с Telegram Bot API и разработкой ботов. -Базовые знания командной строки Linux...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "BI-аналитик / аналитик бизнес-метрик",
+        "url": "https://hh.ru/vacancy/120245756",
+        "salary": null,
+        "description": "Работа с разными системами визуализации: Power BI и тд. Навыки <highlighttext>Python</highlighttext> и понимание баз ML/предиктивной аналитики. Опыт работы в...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/119881973",
+        "salary": null,
+        "description": "Знание PHP 7.2 и выше, <highlighttext>Python</highlighttext>, минимальные знания JS. Опыт работы с базами данных Postgres и MySQL. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/120022467",
+        "salary": null,
+        "description": "Знание жизненного цикла разработки ПО. Опыт разработки высоконагруженных web-проектов на <highlighttext>Python</highlighttext>. Опыт работы с реляционными базами данных и хорошие...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Начальник финансово-экономического отдела",
+        "url": "https://hh.ru/vacancy/120629066",
+        "salary": null,
+        "description": "Хорошие знания пакета power query или sql или <highlighttext>python</highlighttext> pandas. Знание современных методов автоматизации работы финансовых служб. Знание РСБУ. ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120420336",
+        "salary": null,
+        "description": "Знаете принципы работы с BI-платформами. Умеете проводить аналитику <highlighttext>Python</highlighttext> с подключением SQL. Способны визуализировать данные в удобной для принятия...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/120426489",
+        "salary": null,
+        "description": "Уверенно знаете <highlighttext>Python</highlighttext> 3. Работали с Git. Имеете опыт развертывания и администрирования виртуальных машин и контейнерных окружений. Пользовались Docker. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Middle разработчик React (RuBackup)",
+        "url": "https://hh.ru/vacancy/120419970",
+        "salary": null,
+        "description": "Бэкенд: <highlighttext>Python</highlighttext>, Flask. БД: PostgreSql. Фронт: Javascript, React, Redux-toolkit. Понимание принципов работы HTTP, REST API, клиент-серверного взаимодействия. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Младший аналитик данных (Junior Data Analyst)",
+        "url": "https://hh.ru/vacancy/119834656",
+        "salary": null,
+        "description": "Высшее образование. Опыт работы с данными приветствуется, но не обязателен. Знание Excel на уровне продвинутого пользователя (формулы, сводные таблицы, диаграммы). ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Middle Python-разработчик CRM",
+        "url": "https://hh.ru/vacancy/120649697",
+        "salary": null,
+        "description": "Опыт работы от 3 лет в разработке на <highlighttext>Python</highlighttext>. Опыт автоматизации бизнес процессов. Знание ООП и баз данных (SQL и...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120537190",
+        "salary": {
+            "from": 70000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание SQL (PostgreSQL) и опыт работы с ORM (SQLAlchemy). Уверенное владение <highlighttext>Python</highlighttext>, опыт работы с FastAPI или Flask от 1...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/120606457",
+        "salary": null,
+        "description": "Знание принципов ООП. Опыт разработки на <highlighttext>Python</highlighttext>. Знакомство с Django Rest Framework. Знание принципов работы c СУБД. Желание работать в...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "QA Engineer (с функцией L2 support)",
+        "url": "https://hh.ru/vacancy/119912708",
+        "salary": {
+            "from": 100000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Базовые знания backend и web. Умение работать в команде. <highlighttext>Python</highlighttext> + Requests для автоматизации API. Желание развиваться в автоматизации. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python developer middle",
+        "url": "https://hh.ru/vacancy/120531531",
+        "salary": null,
+        "description": "Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 3-х лет. Законченное высшее техническое\\инженерное образование. Опыт работы с реляционными СУБД...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Младший дата аналитик/ Junior data аnalyst",
+        "url": "https://hh.ru/vacancy/120557419",
+        "salary": null,
+        "description": "Уверенное владение <highlighttext>Python</highlighttext> (библиотеки для анализа данных и моделирования), yмение писать эффективный и читаемый код для извлечения и трансформации данных. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior Python Backend Developer/Python-разработчик",
+        "url": "https://hh.ru/vacancy/120403479",
+        "salary": {
+            "from": 60000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Не менее 3-ех месяцев коммерческого опыта разработки. Уверенное знание фрйемворка Django REST Framework / FastAPI. Умение запаковывать приложение в Docker...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Биоинформатик в генетическую лабораторию",
+        "url": "https://hh.ru/vacancy/120318411",
+        "salary": null,
+        "description": "Обязательные навыки: Программирование: Уверенное владение языками <highlighttext>Python</highlighttext> и R, SQL, а также умение работать с библиотеками Pandas, NumPy, Scikit-learn...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Java-разработчик (Инвестиционный блок)",
+        "url": "https://hh.ru/vacancy/120461720",
+        "salary": null,
+        "description": "Опыт разработки и уверенное знание Java 8+. Опыт разработки и уверенное знание Spring Framework (Spring Core, Spring Boot, Spring...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Старший инженер по тестированию",
+        "url": "https://hh.ru/vacancy/120619060",
+        "salary": {
+            "from": 180000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы от 4-х лет. Понимание клиент-серверной архитектуры. Понимание жизненного цикла разработки ПО. Опыт тестирования WEB UI, REST...",
+        "schedule": "Удаленная работа",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "QA-инженер",
+        "url": "https://hh.ru/vacancy/119826473",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "системами управления тестированием (например, Test IT). Опыт взаимодействия с Vue.js и <highlighttext>Python</highlighttext>. Опыт работы с : ​​​​​​​ финансовыми системами или трейдинговыми платформами. ​​​​​​​ ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Программист (Phyton)",
+        "url": "https://hh.ru/vacancy/117579878",
+        "salary": null,
+        "description": "Опыт программирования на <highlighttext>Python</highlighttext> 3 от 3 лет.",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/120243921",
+        "salary": null,
+        "description": "JavaScript/TypeScript. React/Next.js. GitLab CI/CD. Отличное знание CSS3 и HTML5 (дизайнеры предоставят макеты, ваша задача — верстка). ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Middle Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/120403873",
+        "salary": {
+            "from": 100000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Знакомство с Docker. Будет плюсом: -Знание PHP, MySQL, Wordpress, <highlighttext>Python</highlighttext>, Java, PostgreSQL. -Опыт работы с Figma. -Опыт работы с Linux. ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120629934",
+        "salary": null,
+        "description": "Продвинутое пользование Microsoft Excel, Power query, Power BI, Power Pivot, SQL запросов. <highlighttext>Python</highlighttext> (будет преимуществом). Знание 1С. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Разработчик ML",
+        "url": "https://hh.ru/vacancy/120478343",
+        "salary": null,
+        "description": "Знание алгоритмов классификации, регрессии, кластеризации, рекомендательных систем. Опыт работы с графовыми данными (анализ связей, графовые эмбеддинги, методы вроде Adamic/Adar). ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Middle Python Developer",
+        "url": "https://hh.ru/vacancy/120601525",
+        "salary": null,
+        "description": "Глубокие знания <highlighttext>Python</highlighttext> и основных сопутствующих библиотек для разработки SaaS решений. Знания принципов дизайна REST API и соответствующий опыт реализации. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик (QA)",
+        "url": "https://hh.ru/vacancy/119531965",
+        "salary": null,
+        "description": "Базовые знание любых языков программирования, используемых в проекте: JavaScript (Node.js), <highlighttext>Python</highlighttext>, C++, Bash. Понимание принципов работы фронтенд и бэкенд частей...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Frontend разработчик",
+        "url": "https://hh.ru/vacancy/119973340",
+        "salary": null,
+        "description": "Опыт работы с системами сборки и автоматизации (Webpack, Vite). Будет плюсом: — Знание основ серверных технологий (<highlighttext>Python</highlighttext>, Go, Java) для лучшего...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA-инженер",
+        "url": "https://hh.ru/vacancy/120467678",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Метрики в Prometheus + алёрты Grafana.",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Data analyst",
+        "url": "https://hh.ru/vacancy/120582023",
+        "salary": null,
+        "description": "Глубокое знание SQL (сложные запросы, аналитические функции). Опыт анализа реальных данных на <highlighttext>Python</highlighttext>. Понимание принципов работы ML моделей. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/120367309",
+        "salary": null,
+        "description": "Уверенное владение ПК. Желательно знание основ программирования (powershell, <highlighttext>python</highlighttext>, скрипты командных оболочек – bash, cmd и т. д.). Желательно знание основ...",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Бизнес-аналитик",
+        "url": "https://hh.ru/vacancy/120546664",
+        "salary": null,
+        "description": "Уверенный пользователь приложений MS Office, Power BI желательно: макросы MS Office, <highlighttext>Python</highlighttext>. Умение работать в команде, наличие хороших коммуникативных навыков.",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Начинающий LLM Инженер (вайб кодинг)",
+        "url": "https://hh.ru/vacancy/120527708",
+        "salary": null,
+        "description": "Внимательного к деталям новичка, который не боится разбираться, учиться и переделывать. Того, кто уже работал с GPT и понимает, как...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Data Scientist (Специалист по анализу данных)",
+        "url": "https://hh.ru/vacancy/120463073",
+        "salary": {
+            "from": 4000,
+            "to": null,
+            "currency": "EUR",
+            "gross": false
+        },
+        "description": "владение методами feature engineering и оценкой качества моделей. - отличное знание SQL и <highlighttext>Python</highlighttext> (pandas, numpy, seaborn). - опыт проведения A/B...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior Data Analyst",
+        "url": "https://hh.ru/vacancy/119900069",
+        "salary": null,
+        "description": "Умение работать с библиотеками Pandas, Numpy, Matplotlib в <highlighttext>Python</highlighttext>. Ориентация на результат, готовность к динамичной работе в команде и понимание...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Middle Backend Python программист",
+        "url": "https://hh.ru/vacancy/120245828",
+        "salary": null,
+        "description": "Опыт коммерческой разработки с использованием <highlighttext>Python</highlighttext> от 1,5 лет кандидатов с меньшим опытом пока не готовы рассматривать. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Middle QA Engineer (Санкт-Петербург/В.Новгород)",
+        "url": "https://hh.ru/vacancy/119631518",
+        "salary": null,
+        "description": "Опыт работы в качестве QA от 2 лет. Умение настраивать web серверы (IIS, Nginx, Apache2). Опыт тестирования web-приложений. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Старший аналитик",
+        "url": "https://hh.ru/vacancy/120471114",
+        "salary": null,
+        "description": "Умение работать на стыке коммерции и финансов. Уверенное владение Power BI, SQL, <highlighttext>Python</highlighttext>. Высшее образование. Опыт работы на позиции старшего...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик ПО (QA инженер)",
+        "url": "https://hh.ru/vacancy/118903699",
+        "salary": null,
+        "description": "Опыт тестирования ПО. Базовые навыки разработки на <highlighttext>Python</highlighttext>. Знания основных методик тестирования и тест-дизайна. Опыт работы с инструментами командной...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/120397576",
+        "salary": null,
+        "description": "Программирование на <highlighttext>Python</highlighttext> от 3 лет. Gitlab. SQL (минимум Postgre/Oracle/MSQL). Pandas. Базовое понимает архитектурного стиля REST API. ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA Automation Engineer / Manual / Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/120434195",
+        "salary": null,
+        "description": "Опыт работы в Jira, Confluence, Git. -Опыт написания UI/API автотестов (на <highlighttext>Python</highlighttext>/Java/C#). -Работа с Selenium, Playwright, RestAssured...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/120568323",
+        "salary": null,
+        "description": "Уверенное знание <highlighttext>Python</highlighttext>, опыт работы с различными библиотеками. Понимание архитектуры серверных приложений и принципов работы интернет-ресурсов. Знание принципов работы...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/120567192",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Кодинг занимает основную часть времени. Коммерческий опыт разработки на <highlighttext>Python</highlighttext> (>3.7) и знание экосистемы, популярных библиотек и фреймворков (Flask...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA engineer",
+        "url": "https://hh.ru/vacancy/119246134",
+        "salary": {
+            "from": 150000,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Коммерческий опыт в роли тестировщика от 1 года. Знание <highlighttext>Python</highlighttext> для написания тестовых скриптов. Знание Linux на уровне пользователя, умение...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior Python Backend Developer",
+        "url": "https://hh.ru/vacancy/120400908",
+        "salary": null,
+        "description": "Профильное высшее образование. Уверенное знание <highlighttext>Python</highlighttext> и SQL. Знание классических алгоритмов и структур данных. Базовые навыки Django. Работа с терминалом...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Manual QA Engineer (тестировщик)",
+        "url": "https://hh.ru/vacancy/119504455",
+        "salary": null,
+        "description": "Опыт нагрузочного тестирования. Базовые навыки работы с инструментами CI/CD. Знание основ языка программирования (<highlighttext>Python</highlighttext>). Готовность быстро изучать и адаптировать...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "QA-инженер (Manual/auto)",
+        "url": "https://hh.ru/vacancy/120308202",
+        "salary": null,
+        "description": "Уверенный опыт ручного тестирования. Навыки автоматизации тестов (JavaScript или <highlighttext>Python</highlighttext>). Опыт тестирования API и работы с Postman/curl. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "QA инженер (PPEM)",
+        "url": "https://hh.ru/vacancy/120464309",
+        "salary": null,
+        "description": "Опыт ручного тестирования (UI, API, DB) и автоматизации на <highlighttext>Python</highlighttext> (или другом ЯП) от 3х лет. Опыт работы с...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Data Scientist на проект социальной сети (Junior+ , Middle) – парт-тайм/совмещение",
+        "url": "https://hh.ru/vacancy/120661615",
+        "salary": null,
+        "description": "Опыт работы от 2-х лет на позиции Data Scientist, Data Analyst или аналогичной роли. Знания <highlighttext>Python</highlighttext> и библиотек для...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Руководитель отдела аналитики",
+        "url": "https://hh.ru/vacancy/120397978",
+        "salary": null,
+        "description": "Свободное владение инструментами работы с данными (BI-системы, SQL, <highlighttext>Python</highlighttext> и др.). Опыт работы с продуктовыми командами и глубокое понимание...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Data Engineer",
+        "url": "https://hh.ru/vacancy/120478849",
+        "salary": {
+            "from": 700000,
+            "to": 900000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "description": "Опыт работы с MPP базами данных (Clickhouse). - Tech stack: <highlighttext>Python</highlighttext>, DBT, Apache Airflow, Apache Superset, ClickHouse, Apache Kafka, PostgreSQL, Apache...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior developer (разработчик Phyton)",
+        "url": "https://hh.ru/vacancy/120345556",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Иметь в портфолио реальные (не учебные!) на React и <highlighttext>Python</highlighttext>. Понимание принципов ООП, REST, работы с Git. Готовность учиться и...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "url": "https://hh.ru/vacancy/120383861",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с Git. Понимание концепции асинхронного программирования в <highlighttext>Python</highlighttext>. Базовое понимание архитектурного стиля REST API. Опыт работы в команде. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/120450630",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Понимание принципов ООП. Хорошее понимание протокола HTTP и REST. <highlighttext>Python</highlighttext> 3, Django, Git, SQL. Опыт разворачивания решения на сервере (nginx...",
+        "schedule": "Удаленная работа",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/120298695",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Базовое знание любого языка программирования (Go, <highlighttext>Python</highlighttext>, Java, PHP и т.д.). Понимание основ Linux и командной строки. ",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Data Analyst (Junior)",
+        "url": "https://hh.ru/vacancy/120314601",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "SQL на уверенном уровне — понимание, как извлекать данные и работать с ними. Базовые знания <highlighttext>Python</highlighttext> — умение использовать язык для обработки...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Python-Django разработчик (Middle+)",
+        "url": "https://hh.ru/vacancy/120624976",
+        "salary": {
+            "from": 134600,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Глубокое знание <highlighttext>Python</highlighttext>, Django Django REST Framework. Опыт работы в роли технического лидера или архитектора. Опыт проектирования и работы с...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Системный администратор Windows",
+        "url": "https://hh.ru/vacancy/120362711",
+        "salary": {
+            "from": 250000,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Дополнительно приветствуется. Знание S2D. Владение C# / C++ / <highlighttext>Python</highlighttext>. Знание способов улучшения безопасности MS Windows. Наличие сертификатов Microsoft, MCSE...",
+        "schedule": "Полный день",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "Руководитель отдела тестирования",
+        "url": "https://hh.ru/vacancy/120436522",
+        "salary": null,
+        "description": "...и подобными, в роли программиста или системного администратора. Опыт программирования от 3 лет: Bash, <highlighttext>Python</highlighttext> - обязательно. C/C++, Java – желательно.",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA Engineer (тестировщик)",
+        "url": "https://hh.ru/vacancy/120641552",
+        "salary": null,
+        "description": "Знание OpenShift, kubernetes, docker приветствуется. Желание развиваться в сторону автоматизации тестирования (<highlighttext>python</highlighttext>, pytest-bdd). Опыт в крупных интеграционных и высоконагруженных...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Junior Python developer",
+        "url": "https://hh.ru/vacancy/119787879",
+        "salary": {
+            "from": 100000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 6-ти месяцев. Опыт работы с unit-тестами (Pytest, Mock). Базовые знания построения запросов...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python-разработчик FastAPI",
+        "url": "https://hh.ru/vacancy/120168568",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> (3.9 и выше) или готовность перейти с другого стека от 2х лет. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Frontend-разработчик (Middle. Vue | HTML+CSS)",
+        "url": "https://hh.ru/vacancy/120488609",
+        "salary": {
+            "from": 160000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Frontend - Vue.js (Vuex, VueRouter, Vuetify, Vue-cli), Native Java Script, HTML+CSS. Backend - Php fw laravel, <highlighttext>Python</highlighttext> fw Django, C#. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик игр",
+        "url": "https://hh.ru/vacancy/120097650",
+        "salary": null,
+        "description": "Базовые представления о геймдизайне. Базовые навыки программирования (С++, <highlighttext>python</highlighttext>, lua). Умение работать с базами данных, понимание, что такое json, умение...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Backend Python/SQL",
+        "url": "https://hh.ru/vacancy/120531384",
+        "salary": {
+            "from": 160000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Имеете 3+ лет коммерческого опыта с <highlighttext>Python</highlighttext> . Знаете что такое асинхронный код, работали с FastAPI, SQLAlchemy. Знаете как работать...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120478158",
+        "salary": null,
+        "description": "Знание <highlighttext>Python</highlighttext> 3.8+, asyncio (async/await). Опыт работы с SQL (Oracle/PostgreSQL), ORM (SQLAlchemy). Знание Git. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python-разработчик (AI / NLP)",
+        "url": "https://hh.ru/vacancy/120485494",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с <highlighttext>Python</highlighttext> (обязательно), RESTful API, GraphQL и микросервисной архитектурой. Умение работать с облачными платформами (Cloud Yandex, Sber и...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Senior Software Engineer",
+        "url": "https://hh.ru/vacancy/120580770",
+        "salary": {
+            "from": 5000,
+            "to": 9000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Отличное знание <highlighttext>Python</highlighttext>, опыт работы с микросервсными фрейворками. Опыт работы от 4 лет; опыт разработки на <highlighttext>Python</highlighttext> от 3 года. ",
+        "schedule": "Удаленная работа",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "Специалист отдела геоинформационных систем (Картограф)",
+        "url": "https://hh.ru/vacancy/120568125",
+        "salary": null,
+        "description": "Профильное образование. Знание программ: QGIS, ArcGIS, Adobe Illustrator. Визуала (Adobe Photoshop, Blender). Программирования (SQL, <highlighttext>Python</highlighttext>).",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Python-разработчик (Middle), система управления заказами",
+        "url": "https://hh.ru/vacancy/120389494",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3-х лет. Опыт разработки на FastApi/Flask. Опыт написания автотестов на pytest и...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120361928",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Базовые знания <highlighttext>Python</highlighttext> и желание развиваться в этом направлении. Понимание принципов объектно-ориентированного программирования. Способность работать в команде и эффективно...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "ML Разработчик",
+        "url": "https://hh.ru/vacancy/120494255",
+        "salary": {
+            "from": 170000,
+            "to": 260000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Уверенно владеете <highlighttext>Python</highlighttext> и базовыми библиотеками (pandas, numpy, scikit-learn и др.). Имеете опыт работы с табличными (структурированными) данными и...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Специалист (Отдел исследований)",
+        "url": "https://hh.ru/vacancy/117406901",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенное знание языка С\\С++. Знание основ языка <highlighttext>Python</highlighttext> (версия 3). Знание основ программной инженерии. Знание основ дискретной математики. ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Аналитик данных (Junior+)",
+        "url": "https://hh.ru/vacancy/120417659",
+        "salary": null,
+        "description": "Опыт в аналитике от двух лет. Отличные знания SQL (желательно Greenplum, Clickhouse). Опыт отчетностью в Superset, PowerBI или любым другим...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Senior Backend Engineer / Старший бэкэнд разработчик",
+        "url": "https://hh.ru/vacancy/120410179",
+        "salary": {
+            "from": 6000,
+            "to": 12000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "7+ years of backend or data engineering experience. Proficiency with <highlighttext>Python</highlighttext>, Node.js, TypeScript, and PostgreSQL. Extensive experience with AWS...",
+        "schedule": "Удаленная работа",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/120117691",
+        "salary": null,
+        "description": "Внимательность к деталям и способность к анализу информации. Опыт работы с google-тестами. Разработка интеграционных тестов. <highlighttext>Python</highlighttext>, C++.",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python Developer / Разработчик",
+        "url": "https://hh.ru/vacancy/120536600",
+        "salary": {
+            "from": null,
+            "to": 260000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "...разработки на <highlighttext>Python</highlighttext> от 3-х лет (но готовы рассмотреть увлеченных Джунов). Уверенное владеет асинхронным программированием на <highlighttext>Python</highlighttext> (asyncio), умеет...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик ПО (ручное тестирование веб и мобильных приложений на Android и Windows)",
+        "url": "https://hh.ru/vacancy/120475588",
+        "salary": {
+            "from": 75000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Умение работать с Android Studio. Понимание формата JSON и умение анализировать JSON-структуры. Желание осваивать автоматизированное тестирование на <highlighttext>Python</highlighttext>.",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python Backend разработчик ( FastAPI, Django)",
+        "url": "https://hh.ru/vacancy/120490383",
+        "salary": null,
+        "description": "Опыт работы с FastAPI, Django. Будет плюсом SQLAlchemy. Опыт работы с SQL и NoSQL БД, брокерами очередей. Будет плюсом опыт...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Заместитель директора департамента информационных технологий",
+        "url": "https://hh.ru/vacancy/120313069",
+        "salary": {
+            "from": 300000,
+            "to": 450000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с Wireguard, Ansible, Zabbix, Grafana, Terraform. Владение <highlighttext>Python</highlighttext> или опыт разработки скриптов для автоматизации. Понимание устройства Anycast-сетей...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Backend python developer",
+        "url": "https://hh.ru/vacancy/120461886",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Требования: Сильные аналитические навыки. Владение стеком <highlighttext>Python</highlighttext> (от 3х лет коммерческой разработки). Умение хорошо работать с данными и с...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Junior Python-разработчик",
+        "url": "https://hh.ru/vacancy/120236562",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Крепкие знания <highlighttext>Python</highlighttext> 3. Опыт работы с Django/Flask, FastAPI. Опыт работы с базами данных. Основы работы с Git или...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Data Analyst",
+        "url": "https://hh.ru/vacancy/120531362",
+        "salary": null,
+        "description": "Отличное владение SQL и опыт работы с базами данных. Владение <highlighttext>Python</highlighttext> на уровне обработки слабоструктурированных данных. Умение проводить статистический анализ...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/120386729",
+        "salary": null,
+        "description": "Будет плюсом: - Понимание принципов работы асинхронного программирования на <highlighttext>Python</highlighttext> (asyncio, aiohttp и др.). - Опыт интеграции публичных и приватных облаков (AWS...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Разработчик Golang (middle/senior)",
+        "url": "https://hh.ru/vacancy/120540474",
+        "salary": null,
+        "description": "Опыт разработки на Go 3+ года. Опыт работы с Docker (создание образов, запуск/настройка контейнеров). Опыт работы под Linux. ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик QA",
+        "url": "https://hh.ru/vacancy/119764438",
+        "salary": {
+            "from": 100000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Будет плюсом: – Опыт написания автотестов (UI и API), знание <highlighttext>Python</highlighttext> или JavaScript. – Владение инструментами для автоматизации (Selenium, Pytest, Playwright и...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Продуктовый аналитик",
+        "url": "https://hh.ru/vacancy/120428106",
+        "salary": null,
+        "description": "Будет плюсом умение строить ETL-конвейеры (Airflow, dbt или аналоги). Опыт работы с BI-инструментами. Знание <highlighttext>Python</highlighttext>. Опыт сбора, валидации...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Младший аналитик данных",
+        "url": "https://hh.ru/vacancy/120227061",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Уверенное владение SQL — умение извлекать и обрабатывать данные. Базовые навыки <highlighttext>Python</highlighttext> — для анализа и обработки данных. Знание статистики и теории...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/120598359",
+        "salary": null,
+        "description": "Опыт работы с <highlighttext>Python</highlighttext> от 3 лет. Опыт работы с PostgreSQL, Redis. Опыт написания REST API / GraphQL API. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Senior Frontend разработчик (React)",
+        "url": "https://hh.ru/vacancy/120403476",
+        "salary": null,
+        "description": "Опыт разработки инфраструктурных решений. Опыт разработки на Java и <highlighttext>Python</highlighttext>. Опыт работы в продуктовой команде. Опыт работы с платформами виртуализации. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Backend-разработчик Python (FastAPI + AI, медицинское приложение)",
+        "url": "https://hh.ru/vacancy/120456270",
+        "salary": null,
+        "description": "Отличное знание <highlighttext>Python</highlighttext> 3.10+, FastAPI, Pydantic. Опыт реализации REST API и стриминговых ответов. Знание OpenAI API, OpenRouter, или...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Java разработчик (Java+SpringBoot+Kotlin)",
+        "url": "https://hh.ru/vacancy/119867664",
+        "salary": {
+            "from": 200000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Знание системы контроля версий Git. Будет плюсом: - Знание и опыт работы с <highlighttext>Python</highlighttext>, Apache Airflow и Greenplum. - Опыт написания интеграционных...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA (АТ) инженер (Senior)",
+        "url": "https://hh.ru/vacancy/120553398",
+        "salary": {
+            "from": 250000,
+            "to": 270000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Экспертные навыки в автоматизации тестирования: умение разрабатывать автотесты с нуля на одном из языков (Java/JavaScript/<highlighttext>Python</highlighttext> или др.), знание...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Аналитик данных (пользовательское поведение)",
+        "url": "https://hh.ru/vacancy/120412611",
+        "salary": null,
+        "description": "Аналитика: Владение SQL, Excel/Google Sheets, знание <highlighttext>Python</highlighttext>/R — плюс. Инструменты: Amplitude, Mixpanel, Google Analytics, Tableau. Навыки: Аналитическое мышление, работа...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Инженер по тестированию ПО",
+        "url": "https://hh.ru/vacancy/119943103",
+        "salary": null,
+        "description": "Какие профессиональные навыки нам важны: Базовые знания программирования, желательно, <highlighttext>Python</highlighttext>. Опыт работы виртуальными машинами, СУБД. Навыки администрирования клиентских и серверных...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Руководитель отдела тестирования / QA Team Lead",
+        "url": "https://hh.ru/vacancy/120404853",
+        "salary": {
+            "from": 280000,
+            "to": 360000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Глубокое понимание методологий тестирования (manual, automation, exploratory, performance). Отличное знание <highlighttext>Python</highlighttext>, опыт с pytest, Playwright, Appium. Умение работать с TestRail...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/120464147",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Оконченное высшее техническое образование/ неоконченное, с возможностью работать 5/2, полный день. Понимание работы с серверами на базе linux (debian/ubuntu). ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных ритейла (Python)",
+        "url": "https://hh.ru/vacancy/120513690",
+        "salary": null,
+        "description": "Высшее образование: экономическое, техническое. Знание <highlighttext>Python</highlighttext>. Английский язык Pre-Intermediate и выше (как устный, так и письменный). Развитые коммуникационные навыки. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/118661624",
+        "salary": null,
+        "description": "Плюсами будут: Опыт работы с Typescript. Владение техниками тестирования кода (в том числе BDD, TDD). Владение <highlighttext>python</highlighttext> (sanic / aiohttp), docker...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/120218015",
+        "salary": {
+            "from": 140000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Высшее образование (желательно техническое или математическое). Плюсом будет знание языков программирования (например, SQL, <highlighttext>Python</highlighttext>). Понимание принципов работы реляционных баз данных. ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "C# разработчик",
+        "url": "https://hh.ru/vacancy/120648152",
+        "salary": null,
+        "description": "Опыт работы в ИТ от 5 лет: вы точно знаете, как работают системы изнутри. Уверенное знание и практический опыт работы...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Junior Data Analyst",
+        "url": "https://hh.ru/vacancy/118342994",
+        "salary": null,
+        "description": "Базовые знания SQL и (или) опыт анализа данных на <highlighttext>Python</highlighttext>. Знание основ математической статистики и математического аппарата анализа данных. ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "QA engineer / Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/119813667",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт тестирования от 2 лет, знание методологий тестирования. Опыт работы с Windows, Linux на уровне продвинутого пользователя. Знание SQL на...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/120468532",
+        "salary": null,
+        "description": "Опыт работы с системами управления тестированием: Jira, TestRail, Confluence. Опыт тестирования на всех уровнях: модульный, интеграционный, системный, приемочный. ",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python Engineer",
+        "url": "https://hh.ru/vacancy/120550449",
+        "salary": null,
+        "description": "The ideal candidate is proficient in <highlighttext>Python</highlighttext> 3, experienced with Django, and has a solid understanding of RDBMS, containerization, and...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Middle QA-инженер",
+        "url": "https://hh.ru/vacancy/120267083",
+        "salary": null,
+        "description": "Знаете и умеете применять теорию и техники тестирования web и mobile. Обладаете развитыми коммуникативными навыками. Умеете работать в команде. ",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/120278818",
+        "salary": null,
+        "description": "Опыт настройки автоматического запуска тестов в CI/CD-пайплайнах. Навыки чтения кода на языке <highlighttext>Python</highlighttext>. Опыт работы в командной строке...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://hh.ru/vacancy/120640529",
+        "salary": {
+            "from": 150000,
+            "to": 210000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "...логов (Graylog2, Promethous, ELK). Опыт организации CI/CD на базе gitlab. Опыт в написании скриптов (Bash, <highlighttext>Python</highlighttext> и др.).",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных (стажер)",
+        "url": "https://hh.ru/vacancy/120281966",
+        "salary": null,
+        "description": "Внимательность, аккуратность, системность. Умение работать с таблицами и хотя бы базовый SQL. Готовность заниматься рутиной на старте. Мотивация улучшать процессы...",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/120415019",
+        "salary": null,
+        "description": "Отличное понимание асинхронности, её видов и их реализаций в языке <highlighttext>python</highlighttext>. Опыт работы с очередями задач. Понимание того как делаются...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "СISO (Chief Information Security Officer)",
+        "url": "https://hh.ru/vacancy/120662965",
+        "salary": null,
+        "description": "Опыт администрирования linux, разработки скриптов на bash/<highlighttext>python</highlighttext>, самостоятельного создания CI/CD pipelines, настройки iptables (30 правил и более), администрирования...",
+        "schedule": "Полный день",
+        "experience": "Более 6 лет"
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/120308611",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3 лет. Опыт разработки на <highlighttext>Python</highlighttext> с использованием фреймворка Django. Умение работать с реляционными...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120564018",
+        "salary": null,
+        "description": "Уверенное владение SQL. Навыки использования <highlighttext>Python</highlighttext> для работы с No-SQL хранилищами будут преимуществом. Качества кандидата: Аналитический склад ума и...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/118676373",
+        "salary": null,
+        "description": "Понимание основных принципов REST API, базовое знание HTTP. Начальное знание <highlighttext>Python</highlighttext> (понимание таких тем, как: условные операторы, циклы, методы строк...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "IT - Project manager",
+        "url": "https://hh.ru/vacancy/120282509",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Иметь тех бекграунд - понимать, что такое HTTP запрос, чем отличается JS от <highlighttext>Python</highlighttext>, что такое ООП. Знание excel, kanban, figma. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120640465",
+        "salary": null,
+        "description": "Имеешь опыт работы более 1 года работы в продуктовых компаниях. Имеешь опыт работы с кейсами с самостоятельным выбором продуктовых метрик...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120620933",
+        "salary": null,
+        "description": "Опыт сверки данных и устранения несоответствий. Опыт визуализации данных. <highlighttext>Python</highlighttext> для ad-hoc-анализа (pandas, numpy, статистика). Метаданные и документация...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Manual QA Engineer (Middle или Senior)",
+        "url": "https://hh.ru/vacancy/120391927",
+        "salary": null,
+        "description": "Опыт тестирования веб-приложений и api-сервисов от 2-х лет. Уверенное владение DevTools. Умение работать с git, с БД...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Технический директор",
+        "url": "https://hh.ru/vacancy/120481070",
+        "salary": null,
+        "description": "Понимание стека технологий и владение языками программирования, применяемыми в областях машинного зрения, искусственного интеллекта и робототехники (C++, C, <highlighttext>Python</highlighttext>).",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Инженер по тестированию",
+        "url": "https://hh.ru/vacancy/120244926",
+        "salary": {
+            "from": 65000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "понимает клиент-серверную и микросервисную архитектуры. - умеет работать с Postman. Будет очень жирным плюсом: - знание <highlighttext>Python</highlighttext> и желание развиваться в...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Head of Data Platform",
+        "url": "https://hh.ru/vacancy/120556529",
+        "salary": null,
+        "description": "Отлично знаешь SQL и OLTP/OLAP баз данных. Уверенно владеешь <highlighttext>Python</highlighttext> (pandas, SQLAlchemy, psycopg2 и др.). Понимаешь принципы построения...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120407844",
+        "salary": null,
+        "description": "Иметь опыт работы: С <highlighttext>Python</highlighttext> (от 3.8 и выше). С асинхронным программированием в <highlighttext>Python</highlighttext> (asyncio). С веб-фреймворками (FastAPI...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Middle QA специалист (Команда разработки ИС мониторингов рынка)",
+        "url": "https://hh.ru/vacancy/120605851",
+        "salary": null,
+        "description": "Уверенное знание SQL (плюсом будет опыт работы с PLSQL, работа с джобами/процедурами/функциями в БД). Опыт в ручном тестировании...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/120449229",
+        "salary": {
+            "from": 120000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Высшее образование (желательно техническое или математическое). Плюсом будет знание языков программирования (например, SQL, <highlighttext>Python</highlighttext>). Понимание принципов работы реляционных баз данных. ",
+        "schedule": "Полный день",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/119925060",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Отличные знания <highlighttext>Python</highlighttext>. Опыт работы с библиотеками: Fast API, SQLAlchemy, Asyncio, Pydantic. Знания и опыт работы с MongoDB, PostgreSQL. ",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Ведущий системный администратор Linux (2 линия ТП)",
+        "url": "https://hh.ru/vacancy/120033097",
+        "salary": null,
+        "description": "Высшее образование, опыт работы от 3 лет. Специальные знания и навыки: Опыт работы с серверным оборудованием. Хорошее знание стека протоколов...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120416367",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3 лет. Опыт работы с Django/ Celery/ Django Rest Framework. Умение проектировать схемы баз...",
+        "schedule": "Полный день",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "QA (NGN)",
+        "url": "https://hh.ru/vacancy/120647896",
+        "salary": null,
+        "description": "...работы с докерами (Build, Deploy, Start, Stop, Docker-compose). Опыт работы с телефонией VoIP (SIP, RTP, WebRTC). Базовые знания <highlighttext>Python</highlighttext>.",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Python Разработчик",
+        "url": "https://hh.ru/vacancy/120287338",
+        "salary": null,
+        "description": "<highlighttext>Python</highlighttext>: от 1 года практического опыта, уверенное владение HTTP-библиотеками (requests, httpx), понимание асинхронного программирования. FastAPI: опыт создания RESTful API...",
+        "schedule": "Удаленная работа",
+        "experience": "От 1 года до 3 лет"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120557691",
+        "salary": {
+            "from": 72000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы с базами данных. Знание SQL, <highlighttext>Python</highlighttext>. Развитые коммуникативные навыки.",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Middle/Senior Python Developer",
+        "url": "https://hh.ru/vacancy/120373386",
+        "salary": null,
+        "description": "Опыт разработки и развертывания систем виртуализации облачной инфраструктуры (например, OpenStack, VMware). Коммуникабельность, способность работать в команде. Стремление к повышению личной...",
+        "schedule": "Удаленная работа",
+        "experience": "От 3 до 6 лет"
+    },
+    {
+        "name": "Junior GO-developer (GO-разработчик)",
+        "url": "https://hh.ru/vacancy/120521389",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы с асинхронным программированием. -Навыки работы с CI/CD. -Владение другими языками программирования (<highlighttext>Python</highlighttext>, Java, C++ и др.). -",
+        "schedule": "Удаленная работа",
+        "experience": "Нет опыта"
+    },
+    {
+        "name": "Junior+ Python/Go разработчик",
+        "url": "https://hh.ru/vacancy/120598975",
+        "salary": {
+            "from": 70000,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт коммерческой разработки от 1 года. Владение <highlighttext>Python</highlighttext> 2/3. Владение (My)SQL, конкретно. Написать запросы, достаточные для CRUD (SELECT...",
+        "schedule": "Полный день",
+        "experience": "От 1 года до 3 лет"
+    }
+]
