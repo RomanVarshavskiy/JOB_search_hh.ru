@@ -1,16 +1,16 @@
 from src.vacancy import Vacancy
 
 
-def print_vacancies(vacancies: list[Vacancy]):
+def print_vacancies(vacancies: list[Vacancy]) -> None:
     for vacancy in vacancies:
         print(vacancy)
 
 
-def sort_vacancies(vacancies: list[Vacancy]):
+def sort_vacancies(vacancies: list[Vacancy]) -> list[Vacancy]:
     return sorted(vacancies)
 
 
-def get_top_vacancies(vacancies: list[Vacancy], top: int):
+def get_top_vacancies(vacancies: list[Vacancy], top: int) -> list[Vacancy]:
     return vacancies[:top]
 
 
@@ -28,13 +28,14 @@ def filter_vacancies(vacancies: list[Vacancy], keywords: list[str]) -> list[Vaca
 
     return filtered_vacancies
 
+
 def get_vacancies_by_salary(vacancies: list[Vacancy], salary_range: str) -> list[Vacancy]:
     """Фильтрует список вакансий по диапазону зарплат"""
     ranged_vacancies = []
 
     try:
         # Очищаем строку от пробелов и разделяем по дефису
-        parts = [x.strip() for x in salary_range.split('-')]
+        parts = [x.strip() for x in salary_range.split("-")]
         if len(parts) != 2:
             raise ValueError("Неверный формат диапазона зарплат")
 
@@ -42,8 +43,12 @@ def get_vacancies_by_salary(vacancies: list[Vacancy], salary_range: str) -> list
         max_salary = int(parts[1])
 
         for vacancy in vacancies:
-            if (vacancy.salary_from is not None and vacancy.salary_to is not None and
-                    vacancy.salary_from >= min_salary and vacancy.salary_to <= max_salary):
+            if (
+                vacancy.salary_from is not None
+                and vacancy.salary_to is not None
+                and vacancy.salary_from >= min_salary
+                and vacancy.salary_to <= max_salary
+            ):
                 ranged_vacancies.append(vacancy)
 
     except (ValueError, IndexError) as e:

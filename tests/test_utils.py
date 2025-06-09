@@ -1,10 +1,11 @@
 import pytest
-from src.utils import (print_vacancies, sort_vacancies, get_top_vacancies,
-                       filter_vacancies, get_vacancies_by_salary)
+from _pytest.capture import CaptureFixture
+
+from src.utils import filter_vacancies, get_top_vacancies, get_vacancies_by_salary, print_vacancies, sort_vacancies
 from src.vacancy import Vacancy
 
 
-def test_print_vacancies(test_vacancies, capsys):
+def test_print_vacancies(test_vacancies: list[Vacancy], capsys: CaptureFixture[str]) -> None:
     """Тест функции print_vacancies"""
     print_vacancies(test_vacancies)
     captured = capsys.readouterr()
@@ -26,7 +27,7 @@ def test_print_vacancies(test_vacancies, capsys):
     assert "опыт" in output
 
 
-def test_sort_vacancies(test_vacancies):
+def test_sort_vacancies(test_vacancies: list[Vacancy]) -> None:
     """Тест функции sort_vacancies"""
     sorted_vacancies = sort_vacancies(test_vacancies)
 
@@ -38,7 +39,7 @@ def test_sort_vacancies(test_vacancies):
         assert sorted_vacancies[i].salary_from <= sorted_vacancies[i + 1].salary_from
 
 
-def test_get_top_vacancies(test_vacancies):
+def test_get_top_vacancies(test_vacancies: list[Vacancy]) -> None:
     """Тест функции get_top_vacancies"""
     # Тест получения двух верхних вакансий
     top_2 = get_top_vacancies(test_vacancies, 2)
@@ -55,7 +56,7 @@ def test_get_top_vacancies(test_vacancies):
     assert len(top_0) == 0
 
 
-def test_filter_vacancies(test_vacancies):
+def test_filter_vacancies(test_vacancies: list[Vacancy]) -> None:
     """Тест функции filter_vacancies"""
     # Тест фильтрации по одному ключевому слову
     python_vacancies = filter_vacancies(test_vacancies, ["python"])
@@ -74,7 +75,7 @@ def test_filter_vacancies(test_vacancies):
     assert len(no_keywords) == 0
 
 
-def test_get_vacancies_by_salary(test_vacancies):
+def test_get_vacancies_by_salary(test_vacancies: list[Vacancy]) -> None:
     """Тест функции get_vacancies_by_salary"""
 
     # Тест с корректным диапазоном зарплат
@@ -109,16 +110,19 @@ def test_get_vacancies_by_salary(test_vacancies):
     assert filtered[0].name == "Python Dev Middle"
 
 
-@pytest.mark.parametrize("invalid_range", [
-    "",  # пустая строка
-    "100000",  # одно число
-    "100000-",  # неполный диапазон
-    "-100000",  # неполный диапазон
-    "abc-def",  # нечисловые значения
-    "100000-50000",  # мин больше макс
-    "100000,200000",  # неверный разделитель
-])
-def test_get_vacancies_by_salary_invalid_input(test_vacancies, invalid_range):
+@pytest.mark.parametrize(
+    "invalid_range",
+    [
+        "",  # пустая строка
+        "100000",  # одно число
+        "100000-",  # неполный диапазон
+        "-100000",  # неполный диапазон
+        "abc-def",  # нечисловые значения
+        "100000-50000",  # мин больше макс
+        "100000,200000",  # неверный разделитель
+    ],
+)
+def test_get_vacancies_by_salary_invalid_input(test_vacancies: list[Vacancy], invalid_range: str) -> None:
     """Тест функции get_vacancies_by_salary с некорректными входными данными"""
     filtered = get_vacancies_by_salary(test_vacancies, invalid_range)
     assert len(filtered) == 0
