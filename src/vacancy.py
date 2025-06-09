@@ -1,6 +1,6 @@
 class Vacancy:
 
-    #__slots__ = ('id', 'title', 'company', 'salary', 'link')
+    __slots__ = ('name', 'url', 'salary', 'description', 'schedule', 'experience', 'salary_from', 'salary_to')
 
     def __init__(self, name, url, salary, description, schedule, experience):
         self.name = name
@@ -19,6 +19,7 @@ class Vacancy:
         else:
             self.salary_from = salary.get('from') if salary.get('from') else 0
             self.salary_to = salary.get('to') if salary.get('to') else 0
+
 
     def __lt__(self, other):    # lt - сравнение знака "<"
         return self.salary_from < other.salary_from

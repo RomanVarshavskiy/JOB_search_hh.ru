@@ -1,44 +1,34 @@
-import json
-
-from src.classes import HH
+from src.classes import HeadHunterAPI
+from src.utils import filter_vacancies, get_vacancies_by_salary, sort_vacancies, get_top_vacancies, print_vacancies
 from src.vacancy import Vacancy
 from src.json_saver import JSONSaver
 
-print("Введите ключевое слово для поиска вакансий")
 
-while True:
+search_query = input("Введите ключевое слово для поиска вакансий в hh.ru: ")
 
+# Создание экземпляра класса для работы с API сайтов с вакансиями
+hh = HeadHunterAPI()
+json_saver = JSONSaver()
+vacancies_list = hh.load_vacancies(search_query)
+json_saver.save_vacancies(vacancies_list)
 
+# Преобразование списка словарей в список объектов Vacancy
+vacancy_objects = [Vacancy(**vacancy) for vacancy in vacancies_list]
 
-hh = HH()
-json_saver = JSONSaver()        #Создали экземпляр класса
-vacancies = hh.load_vacancies('python')     # должно быть не python, а то, что вводит пользователь
-json_saver.save_vacancies(vacancies)
+def user_interaction():
+    """Функция для взаимодействия с пользователем"""
+    filter_words = input("Введите ключевое слово для фильтрации вакансий: ").lower().split()
+    top_n = int(input("Введите количество вакансий для вывода в топ N: "))
+    salary_range = input("Введите диапазон зарплат: ") # Пример: 100000 - 150000
 
-# vac_ex = []
-# for vacancy in vacancies:
-#     vac_ex.append(Vacancy(**vacancy))
+    filtered_vacancies = filter_vacancies(vacancy_objects, filter_words)
 
-# for vacancy in vacancies:
-#     # Если vacancy это строка в формате JSON, преобразуем её в словарь
-#     if isinstance(vacancy, str):
-#         try:
-#             vacancy_dict = json.loads(vacancy)
-#             vac_ex.append(Vacancy(**vacancy_dict))
-#         except json.JSONDecodeError:
-#             print(f'Ошибка при разборе данных вакансии: {vacancy}')
-#             continue
-#     # Если vacancy уже словарь, используем как есть
-#     elif isinstance(vacancy, dict):
-#         vac_ex.append(Vacancy(**vacancy))
-#     else:
-#         print(f"Неподдерживаемый формат данных вакансии: {type(vacancy)}")
+    ranged_vacancies = get_vacancies_by_salary(filtered_vacancies, salary_range)
+
+    sorted_vacancies = sort_vacancies(ranged_vacancies)
+    top_vacancies = get_top_vacancies(sorted_vacancies, top_n)
+    print_vacancies(top_vacancies)
 
 
-# for vac in vac_ex:
-#     print(vac)
-#     print("------------------")
-
-for vac in json_saver.get_vacancies():
-    print(vac)
-    print("------------------")
+if __name__ == "__main__":
+    user_interaction()

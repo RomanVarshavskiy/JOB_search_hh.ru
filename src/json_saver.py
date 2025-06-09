@@ -26,7 +26,6 @@ class JSONSaver(JSONAbstract):
     def get_vacancies(self) -> list[Vacancy]:
         with open(self.__path, "r", encoding="utf-8") as file:
             data = json.load(file)
-
         vacancies = []
         for vacancy in data:
             vacancies.append(Vacancy(**vacancy))
