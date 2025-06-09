@@ -48,8 +48,3 @@ class HeadHunterAPI(AbstractAPI):
                     "description": vacancy["snippet"]["requirement"], "schedule": vacancy["schedule"]["name"],
                        "experience": vacancy["experience"]["name"]})
         return all_vacancies
-
-hh = HeadHunterAPI()
-print(type(hh.load_vacancies('python')))
-# # print(hh.load_vacancies('python'))
-# print(len(hh.load_vacancies('python')))
