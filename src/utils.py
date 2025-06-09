@@ -16,17 +16,17 @@ def get_top_vacancies(vacancies: list[Vacancy], top: int):
 
 def filter_vacancies(vacancies: list[Vacancy], keywords: list[str]) -> list[Vacancy]:
     """Фильтрует список вакансий по ключевым словам в описании"""
-    filtered_vacancies = []
+    if not keywords:  # Проверка на пустой список ключевых слов
+        return []
 
+    filtered_vacancies = []
     for vacancy in vacancies:
-        if vacancy.description:  # Проверяем, что описание не пустое
-            description_lower = vacancy.description.lower()
-            # Проверяем наличие всех ключевых слов в описании
-            if all(keyword in description_lower for keyword in keywords):
-                filtered_vacancies.append(vacancy)
+        description_lower = vacancy.description.lower()
+        # Проверяем наличие всех ключевых слов в описании
+        if all(keyword in description_lower for keyword in keywords):
+            filtered_vacancies.append(vacancy)
 
     return filtered_vacancies
-
 
 def get_vacancies_by_salary(vacancies: list[Vacancy], salary_range: str) -> list[Vacancy]:
     """Фильтрует список вакансий по диапазону зарплат"""
