@@ -2,15 +2,18 @@ from src.vacancy import Vacancy
 
 
 def print_vacancies(vacancies: list[Vacancy]) -> None:
+    """Выводит на печать список вакансий"""
     for vacancy in vacancies:
         print(vacancy)
 
 
 def sort_vacancies(vacancies: list[Vacancy]) -> list[Vacancy]:
+    """Сортирует список вакансий по зарплате"""
     return sorted(vacancies)
 
 
 def get_top_vacancies(vacancies: list[Vacancy], top: int) -> list[Vacancy]:
+    """Выдает топ-вакансий по заданному значению top"""
     return vacancies[:top]
 
 

@@ -8,10 +8,12 @@ class AbstractAPI(ABC):
 
     @abstractmethod
     def _connect(self) -> dict:
+        """Абстрактный метод соединения с API"""
         pass  # pragma: no cover
 
     @abstractmethod
     def load_vacancies(self, keyword: str) -> list[dict]:
+        """Абстрактный метод для получения вакансий"""
         pass  # pragma: no cover
 
 
@@ -19,6 +21,7 @@ class HeadHunterAPI(AbstractAPI):
     """Класс для работы с API HeadHunter"""
 
     def __init__(self) -> None:
+        """Конструктор инициализирует объект класса HeadHunterAPI"""
         self.__url = "https://api.hh.ru/vacancies"
         self.__params = {"text": "", "page": 0, "per_page": 50}
 
@@ -42,6 +45,7 @@ class HeadHunterAPI(AbstractAPI):
 
     @staticmethod
     def filter_vacancy(vacancies: list[dict]) -> list[dict]:
+        """Фильтрует и преобразует список вакансий в нужный формат"""
         all_vacancies = []
         for vacancy in vacancies:
             all_vacancies.append(
